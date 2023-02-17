@@ -22,13 +22,13 @@
 
   /* backgroud colors */
   --bg-white: hsl(0, 0%, 100%);
-  --bg-black-alpha-20: hsla(0, 0%, 0%, 0.2);
-  --bg-lavender-blush: hsl(0, 100%, 98%);
-  --bg-majorelle-blue: hsl(249, 95%, 63%);
+  --bg-black-alpha-20: rgba(0, 0, 0, 0.2);
+  --bg-lavender-blush: #fefff9;
+  --bg-majorelle-blue: rgb(74, 58, 161);
   --bg-ocean-blue: hsl(249, 63%, 54%);
   --bg-majorelle-blue-alpha-5: hsla(249, 95%, 63%, 0.05);
-  --bg-misty-rose: hsl(0, 100%, 95%);
-  --bg-red-salsa: hsl(357, 94%, 63%);
+  --bg-misty-rose: #ccdbee;
+  --bg-red-salsa: hsl(198, 94%, 63%);
   --bg-red-salsa-alpha-5: hsla(357, 94%, 63%, 0.05);
   --bg-english-vermillion: hsl(357, 64%, 53%);
   --bg-chrome-yellow-alpha-5: hsla(40, 100%, 50%, 0.05);
@@ -38,9 +38,9 @@
   /* text color */
   --text-white: hsl(0, 0%, 100%);
   --text-gunmetal: hsl(209, 40%, 14%);
-  --text-light-coral: hsl(357, 96%, 73%);
+  --text-light-coral: hsl(210, 4%, 38%);
   --text-granite-gray: hsl(210, 4%, 38%);
-  --text-majorelle-blue: hsl(249, 95%, 63%);
+  --text-majorelle-blue: rgb(74, 58, 161);
   --text-sunglow: hsl(48, 100%, 50%);
 
   /* border color */
